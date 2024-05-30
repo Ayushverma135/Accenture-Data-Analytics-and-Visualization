@@ -42,3 +42,24 @@ Make your resume standout by adding this snippet to the extra curricular section
     - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
     - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
     - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+
+## Tasks
+- Task 1: __Project Understanding__
+    - Meet your Accenture team, including the industry, IPO and data experts.
+    - Read and analyze a client project brief to understand the client and business problem.
+    - Identify the requirements that need to be delivered, and identify which tasks you need to focus on as a data analyst.
+
+- Task 2: __Data Cleaning and Modeling__
+    - Identify which datasets will be required to answer the client’s business question.
+    - Clean the datasets and merge them to prepare the data for analysis.
+    - Determine the answer to the client’s business question.
+
+- Task 3: __Data Visualization and Story Telling__
+    - Choose the data visualizations that best support the story you want to tell to the client.
+    - Create a PowerPoint presentation that reports on the client’s content performance.
+
+- Task 4: __Present to the Client__
+    - Record a <10 minute video of your presentation to your client and internal team members
+ 
+## Conclusion
+Participating in the Accenture North America Data Analytics and Visualization Job Simulation was an invaluable experience that solidified my interest in data analytics and my desire to work at Accenture. The skills and insights gained from this program will be instrumental in my career as a Data Analyst, and I look forward to applying them in a professional setting.
